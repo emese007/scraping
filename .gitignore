@@ -1,10 +1,12 @@
 # Environnements virtuels
 venv/
 env/
-.env
+.venv
+.vscode
 
 # Fichiers Python compilés
 __pycache__/
 
 # Fichiers de cache
 *.pyc
+.gitignore
