@@ -22,7 +22,7 @@ def creation_bd(df_books: pd.DataFrame) -> sqlite3.Connection:
     """
 
     # Création de la BDD
-    connection = sqlite3.connect("database/book_store.db")
+    connection = sqlite3.connect("/home/emese/Briefs_test/scraping/book_store.db")
     cursor = connection.cursor()
 
     # Création manuelle de la table si elle n'existe pas
@@ -35,7 +35,27 @@ def creation_bd(df_books: pd.DataFrame) -> sqlite3.Connection:
                    rating TEXT
                    )                       
     """)
+    connection.commit()
 
     # Insertion des données
-    df_books.to_sql('book_store', connection, if_exists='replace')
+    df_books.to_sql('book_store', connection, if_exists='replace', index= False)
     return connection
+
+def insert_data(connection: sqlite3.Connection) -> None:
+    """
+    Fonction qui permet de créer, insérer les données en base et afficher
+    le nombre de livres de la base pour vérifier l'insertion.
+
+    Args: 
+        connection (sqlite3.Connection): Connection sqlie pour ouvrir la base de données
+    Returns: 
+        None
+    """
+
+    cursor = connection.cursor()
+    cursor.execute("SELECT COUNT(*) FROM book_store")
+    count = cursor.fetchone()[0]
+
+    print(f"Nombre des lives insérés : {count}")
+
+
