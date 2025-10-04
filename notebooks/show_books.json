@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "O-t9BAAAQBAJ",
-      "etag": "ejL3eRDY/CU",
+      "etag": "5IbTl5Yjx6Q",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/O-t9BAAAQBAJ",
       "volumeInfo": {
         "title": "Encyclopedia of Food and Health",
@@ -99,7 +99,7 @@
     {
       "kind": "books#volume",
       "id": "RgU9u9oUSDQC",
-      "etag": "1gtM9pncy4I",
+      "etag": "HRBdurYHmRs",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/RgU9u9oUSDQC",
       "volumeInfo": {
         "title": "Advances in Deep-Fat Frying of Foods",
@@ -200,7 +200,7 @@
     {
       "kind": "books#volume",
       "id": "CSHOBQAAQBAJ",
-      "etag": "D4KaP1XXtfA",
+      "etag": "5gGWzlPZxKM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/CSHOBQAAQBAJ",
       "volumeInfo": {
         "title": "Solid State Fermentation for Foods and Beverages",
@@ -298,7 +298,7 @@
     {
       "kind": "books#volume",
       "id": "uvaiAgAAQBAJ",
-      "etag": "ub1IDyoYbfs",
+      "etag": "XI+miohslf4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/uvaiAgAAQBAJ",
       "volumeInfo": {
         "title": "In-Pack Processed Foods",
@@ -397,7 +397,7 @@
     {
       "kind": "books#volume",
       "id": "NmI7EAAAQBAJ",
-      "etag": "TUdFUS1o3M0",
+      "etag": "os/o1FCK9lc",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/NmI7EAAAQBAJ",
       "volumeInfo": {
         "title": "Current Advances for Development of Functional Foods Modulating Inflammation and Oxidative Stress",
@@ -496,7 +496,7 @@
     {
       "kind": "books#volume",
       "id": "MJTLBQAAQBAJ",
-      "etag": "VORBFg42MzM",
+      "etag": "3ZdYHXAo8fA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/MJTLBQAAQBAJ",
       "volumeInfo": {
         "title": "Fermented Foods and Beverages of the World",
@@ -596,7 +596,7 @@
     {
       "kind": "books#volume",
       "id": "mRebEAAAQBAJ",
-      "etag": "ezavD7T3FLI",
+      "etag": "SiKH/g/79hI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/mRebEAAAQBAJ",
       "volumeInfo": {
         "title": "Biopolymers in Nutraceuticals and Functional Foods",
@@ -696,7 +696,7 @@
     {
       "kind": "books#volume",
       "id": "6iyIEQAAQBAJ",
-      "etag": "S6NNMASZlio",
+      "etag": "k4r8Fknep1U",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/6iyIEQAAQBAJ",
       "volumeInfo": {
         "title": "Fermentation Biotechnology for Functional Foods",
@@ -794,7 +794,7 @@
     {
       "kind": "books#volume",
       "id": "NGI7EAAAQBAJ",
-      "etag": "7OnpInhtFKI",
+      "etag": "SluvJXF73Bo",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/NGI7EAAAQBAJ",
       "volumeInfo": {
         "title": "Functional Foods and their Implications for Health Promotion",
@@ -895,7 +895,7 @@
     {
       "kind": "books#volume",
       "id": "WXtzBgAAQBAJ",
-      "etag": "wsSS3DI9cMo",
+      "etag": "SqKA8PqAFgI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/WXtzBgAAQBAJ",
       "volumeInfo": {
         "title": "Strange Foods",
@@ -993,7 +993,7 @@
     {
       "kind": "books#volume",
       "id": "HNkoDwAAQBAJ",
-      "etag": "IZ4UvkRhv+Q",
+      "etag": "a69KOzfAeXI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/HNkoDwAAQBAJ",
       "volumeInfo": {
         "title": "Olives and Olive Oil as Functional Foods",
@@ -1036,7 +1036,7 @@
           "thumbnail": "http://books.google.com/books/content?id=HNkoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=HNkoDwAAQBAJ&pg=PT268&dq=food&hl=&as_brr=6&cd=11&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=HNkoDwAAQBAJ&pg=PT270&dq=food&hl=&as_brr=6&cd=11&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=HNkoDwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HNkoDwAAQBAJ"
       },
@@ -1087,13 +1087,115 @@
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "... <b>Food</b> Chemistry 83 ( 1 ) , 127–134 . Cajka , T. , Riddellova , K. , Klimankova , E. , Cerna , M. , Pudil , F. , &amp; Hajslova , J. ( 2010 ) Traceability of olive oil based on volatiles pattern and multivariate analysis . <b>Food</b> Chemistry 121&nbsp;..."
+        "textSnippet": "... <b>food</b> manufacture. Trends in <b>Food</b> Science &amp; Technology 9(5), 211–214. Montealegre, C., Alegre, M.L., &amp; Garcia-Ruiz, C. (2010) Traceability markers to the botanical origin in olive oils. Journal of Agricultural and <b>Food</b> Chemistry 58, 28&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uDDgDwAAQBAJ",
+      "etag": "ZAFHtWM4XAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uDDgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Food Waste to Valuable Resources",
+        "subtitle": "Applications and Management",
+        "authors": [
+          "Rajesh Banu",
+          "Gopalakrishnan Kumar",
+          "Gunasekaran M.",
+          "Kavitha S."
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2020-04-28",
+        "description": "Food Waste to Valuable Resources: Applications and Management compiles current information pertaining to food waste, placing particular emphasis on the themes of food waste management, biorefineries, valuable specialty products and technoeconomic analysis. Following its introduction, this book explores new valuable resource technologies, the bioeconomy, the technoeconomical evaluation of food-waste-based biorefineries, and the policies and regulations related to a food-waste-based economy. It is an ideal reference for researchers and industry professionals working in the areas of food waste valorization, food science and technology, food producers, policymakers and NGOs, environmental technologists, environmental engineers, and students studying environmental engineering, food science, and more. - Presents recent advances, trends and challenges related to food waste valorization - Contains invaluable knowledge on of food waste management, biorefineries, valuable specialty products and technoeconomic analysis - Highlights modern advances and applications of food waste bioresources in various products' recovery",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128183540"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128183543"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uDDgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uDDgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=uDDgDwAAQBAJ&pg=PA345&dq=food&hl=&as_brr=6&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uDDgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uDDgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 163.52,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 114.46,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uDDgDwAAQBAJ&rdid=book-uDDgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 163520000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 114460000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Food_Waste_to_Valuable_Resources-sample-epub.acsm?id=uDDgDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Food_Waste_to_Valuable_Resources-sample-pdf.acsm?id=uDDgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uDDgDwAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>food</b> waste. <b>Food</b> waste accounts for the highest amount of generated biowaste throughout the world. Each year around one-third (1.3 billion tonnes) of the total <b>food</b> produced is wasted through all stages of the <b>food</b> supply chain (produc&nbsp;..."
       }
     },
     {
       "kind": "books#volume",
       "id": "uv53EQAAQBAJ",
-      "etag": "2mQzkDgu9rw",
+      "etag": "ugIP7NddnuI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/uv53EQAAQBAJ",
       "volumeInfo": {
         "title": "Issues of Governance, Security, and Development in Contemporary Africa",
@@ -1132,7 +1234,7 @@
           "thumbnail": "http://books.google.com/books/content?id=uv53EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=uv53EQAAQBAJ&pg=PA124&dq=food&hl=&as_brr=6&cd=12&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=uv53EQAAQBAJ&pg=PA124&dq=food&hl=&as_brr=6&cd=13&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=uv53EQAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uv53EQAAQBAJ"
       },
@@ -1187,8 +1289,108 @@
     },
     {
       "kind": "books#volume",
+      "id": "ce7tBgAAQBAJ",
+      "etag": "v1Hqj3pLy0U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ce7tBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Encyclopedia of Food Grains",
+        "authors": [
+          "Colin W Wrigley",
+          "Harold Corke",
+          "Koushik Seetharaman",
+          "Jonathan Faubion"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2015-12-17",
+        "description": "The Encyclopedia of Food Grains, Four Volume Set is an in-depth and authoritative reference covering all areas of grain science. Coverage includes everything from the genetics of grains to the commercial, economic and social aspects of this important food source. Also covered are the biology and chemistry of grains, the applied aspects of grain production and the processing of grains into various food and beverage products. With the paramount role of cereals as a global food source, this Encyclopedia is sure to become the standard reference work in the field of science. Also available online via ScienceDirect – featuring extensive browsing, searching, and internal cross-referencing between articles in the work, plus dynamic linking to journal articles and abstract databases, making navigation flexible and easy. For more information, pricing options and availability visit www.info.sciencedirect.com. Written from an international perspective the Encyclopedia concentrates on the food uses of grains, but details are also provided about the wider roles of grains Well organized and accessible, it is the ideal resource for students, researchers and professionals seeking an authoritative overview on any particular aspect of grain science This second edition has four print volumes which provides over 200 articles on food grains Includes extensive cross-referencing and \"Further Reading\" lists at the end of each article for deeper exploration into the topic This edition also includes useful items for students and teachers alike, with Topic Highlights, Learning objectives, Exercises for Revision and exercises to explore the topic further",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780123947864"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0123947863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1956,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ce7tBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ce7tBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ce7tBgAAQBAJ&pg=RA1-PA2&dq=food&hl=&as_brr=6&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ce7tBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ce7tBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1968,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 1472.83,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ce7tBgAAQBAJ&rdid=book-ce7tBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1968000000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1472830000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Encyclopedia_of_Food_Grains-sample-pdf.acsm?id=ce7tBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ce7tBgAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>food</b> expansion across the globe is enormous with the current market size estimated from 7 to 190 billion USD. The ever-increasing health-care costs and public ... <b>foods</b> or <b>food</b> 2 <b>FOOD</b> GRAINS AND WELL-BEING | Functional <b>Foods</b>: Overview."
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "0J8eEQAAQBAJ",
-      "etag": "krzbVdd1crI",
+      "etag": "KsCfc2gULIg",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/0J8eEQAAQBAJ",
       "volumeInfo": {
         "title": "Nutritional Coaching",
@@ -1230,7 +1432,7 @@
           "thumbnail": "http://books.google.com/books/content?id=0J8eEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=0J8eEQAAQBAJ&pg=PA30&dq=food&hl=&as_brr=6&cd=13&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=0J8eEQAAQBAJ&pg=PA30&dq=food&hl=&as_brr=6&cd=15&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=0J8eEQAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0J8eEQAAQBAJ"
       },
@@ -1287,7 +1489,7 @@
     {
       "kind": "books#volume",
       "id": "yAmmEAAAQBAJ",
-      "etag": "zegPkGXd2BI",
+      "etag": "Mn46UFlTpZM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yAmmEAAAQBAJ",
       "volumeInfo": {
         "title": "Cultivation for Climate Change Resilience, Volume 1",
@@ -1330,7 +1532,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yAmmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=yAmmEAAAQBAJ&pg=PA2017&dq=food&hl=&as_brr=6&cd=14&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=yAmmEAAAQBAJ&pg=PA2017&dq=food&hl=&as_brr=6&cd=16&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yAmmEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yAmmEAAAQBAJ"
       },
@@ -1387,7 +1589,7 @@
     {
       "kind": "books#volume",
       "id": "PgK1GbyiiDUC",
-      "etag": "uzjxC7ynfiI",
+      "etag": "25ZVoRBcjg0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/PgK1GbyiiDUC",
       "volumeInfo": {
         "title": "Dojo: The Definitive Guide",
@@ -1431,7 +1633,7 @@
           "thumbnail": "http://books.google.com/books/content?id=PgK1GbyiiDUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=PgK1GbyiiDUC&pg=PA118&dq=food&hl=&as_brr=6&cd=15&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=PgK1GbyiiDUC&pg=PA118&dq=food&hl=&as_brr=6&cd=17&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=PgK1GbyiiDUC&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PgK1GbyiiDUC"
       },
@@ -1485,110 +1687,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "uDDgDwAAQBAJ",
-      "etag": "Uoz4KQcUXXQ",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/uDDgDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Food Waste to Valuable Resources",
-        "subtitle": "Applications and Management",
-        "authors": [
-          "Rajesh Banu",
-          "Gopalakrishnan Kumar",
-          "Gunasekaran M.",
-          "Kavitha S."
-        ],
-        "publisher": "Academic Press",
-        "publishedDate": "2020-04-28",
-        "description": "Food Waste to Valuable Resources: Applications and Management compiles current information pertaining to food waste, placing particular emphasis on the themes of food waste management, biorefineries, valuable specialty products and technoeconomic analysis. Following its introduction, this book explores new valuable resource technologies, the bioeconomy, the technoeconomical evaluation of food-waste-based biorefineries, and the policies and regulations related to a food-waste-based economy. It is an ideal reference for researchers and industry professionals working in the areas of food waste valorization, food science and technology, food producers, policymakers and NGOs, environmental technologists, environmental engineers, and students studying environmental engineering, food science, and more. - Presents recent advances, trends and challenges related to food waste valorization - Contains invaluable knowledge on of food waste management, biorefineries, valuable specialty products and technoeconomic analysis - Highlights modern advances and applications of food waste bioresources in various products' recovery",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780128183540"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0128183543"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 464,
-        "printType": "BOOK",
-        "categories": [
-          "Political Science"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.5.7.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=uDDgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=uDDgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=uDDgDwAAQBAJ&pg=PA345&dq=food&hl=&as_brr=6&cd=16&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=uDDgDwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uDDgDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 163.52,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 114.46,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=uDDgDwAAQBAJ&rdid=book-uDDgDwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 163520000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 114460000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Food_Waste_to_Valuable_Resources-sample-epub.acsm?id=uDDgDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Food_Waste_to_Valuable_Resources-sample-pdf.acsm?id=uDDgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=uDDgDwAAQBAJ&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... <b>food</b> waste. <b>Food</b> waste accounts for the highest amount of generated biowaste throughout the world. Each year around one-third (1.3 billion tonnes) of the total <b>food</b> produced is wasted through all stages of the <b>food</b> supply chain (produc&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "rExmEAAAQBAJ",
-      "etag": "fsocqrhYQUY",
+      "etag": "AoEZGRutP1g",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/rExmEAAAQBAJ",
       "volumeInfo": {
         "title": "A Grammar of Emai",
@@ -1630,7 +1730,7 @@
           "thumbnail": "http://books.google.com/books/content?id=rExmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=rExmEAAAQBAJ&pg=PA121&dq=food&hl=&as_brr=6&cd=17&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=rExmEAAAQBAJ&pg=PA121&dq=food&hl=&as_brr=6&cd=18&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=rExmEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rExmEAAAQBAJ"
       },
@@ -1685,108 +1785,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "ce7tBgAAQBAJ",
-      "etag": "yhZ9ecDZ5go",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ce7tBgAAQBAJ",
-      "volumeInfo": {
-        "title": "Encyclopedia of Food Grains",
-        "authors": [
-          "Colin W Wrigley",
-          "Harold Corke",
-          "Koushik Seetharaman",
-          "Jonathan Faubion"
-        ],
-        "publisher": "Academic Press",
-        "publishedDate": "2015-12-17",
-        "description": "The Encyclopedia of Food Grains, Four Volume Set is an in-depth and authoritative reference covering all areas of grain science. Coverage includes everything from the genetics of grains to the commercial, economic and social aspects of this important food source. Also covered are the biology and chemistry of grains, the applied aspects of grain production and the processing of grains into various food and beverage products. With the paramount role of cereals as a global food source, this Encyclopedia is sure to become the standard reference work in the field of science. Also available online via ScienceDirect – featuring extensive browsing, searching, and internal cross-referencing between articles in the work, plus dynamic linking to journal articles and abstract databases, making navigation flexible and easy. For more information, pricing options and availability visit www.info.sciencedirect.com. Written from an international perspective the Encyclopedia concentrates on the food uses of grains, but details are also provided about the wider roles of grains Well organized and accessible, it is the ideal resource for students, researchers and professionals seeking an authoritative overview on any particular aspect of grain science This second edition has four print volumes which provides over 200 articles on food grains Includes extensive cross-referencing and \"Further Reading\" lists at the end of each article for deeper exploration into the topic This edition also includes useful items for students and teachers alike, with Topic Highlights, Learning objectives, Exercises for Revision and exercises to explore the topic further",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780123947864"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0123947863"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 1956,
-        "printType": "BOOK",
-        "categories": [
-          "Technology & Engineering"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.4.4.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ce7tBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ce7tBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=ce7tBgAAQBAJ&pg=RA1-PA2&dq=food&hl=&as_brr=6&cd=18&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=ce7tBgAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ce7tBgAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 1968,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 1472.83,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=ce7tBgAAQBAJ&rdid=book-ce7tBgAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 1968000000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 1472830000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Encyclopedia_of_Food_Grains-sample-pdf.acsm?id=ce7tBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ce7tBgAAQBAJ&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... <b>food</b> expansion across the globe is enormous with the current market size estimated from 7 to 190 billion USD. The ever-increasing health-care costs and public ... <b>foods</b> or <b>food</b> 2 <b>FOOD</b> GRAINS AND WELL-BEING | Functional <b>Foods</b>: Overview."
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "grkIEAAAQBAJ",
-      "etag": "1cA8wq5CvaE",
+      "etag": "0mB3fUP3AQc",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/grkIEAAAQBAJ",
       "volumeInfo": {
         "title": "Eco-Friendly Energy Processes and Technologies for Achieving Sustainable Development",
@@ -1837,11 +1837,11 @@
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 184.21,
+          "amount": 183.97,
           "currencyCode": "EUR"
         },
         "retailPrice": {
-          "amount": 128.95,
+          "amount": 128.78,
           "currencyCode": "EUR"
         },
         "buyLink": "https://play.google.com/store/books/details?id=grkIEAAAQBAJ&rdid=book-grkIEAAAQBAJ&rdot=1&source=gbs_api",
@@ -1849,11 +1849,11 @@
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 184210000,
+              "amountInMicros": 183970000,
               "currencyCode": "EUR"
             },
             "retailPrice": {
-              "amountInMicros": 128950000,
+              "amountInMicros": 128780000,
               "currencyCode": "EUR"
             },
             "giftable": true
@@ -1884,7 +1884,7 @@
     {
       "kind": "books#volume",
       "id": "wjVVEAAAQBAJ",
-      "etag": "u/vKXlNRuUQ",
+      "etag": "Qi6uHoEx9Q0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wjVVEAAAQBAJ",
       "volumeInfo": {
         "title": "Allergy Essentials,E-Book",
@@ -1983,8 +1983,106 @@
     },
     {
       "kind": "books#volume",
+      "id": "C9bYDwAAQBAJ",
+      "etag": "oB4hS38MWcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C9bYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Rise of Food Charity in Europe",
+        "authors": [
+          "Hannah Lambie-Mumford",
+          "Tiina Silvasti"
+        ],
+        "publisher": "Policy Press",
+        "publishedDate": "2020-03-31",
+        "description": "As the demand for food banks and other emergency food charities continues to rise across the continent, this is the first systematic Europe-wide study of the roots and consequences of this urgent phenomenon. Leading researchers provide case studies from the UK, Finland, Germany, Italy, the Netherlands, Slovenia and Spain, each considering the history and driving political and social forces behind the rise of food charity, and the influence of changing welfare states. They build into a rich comparative study that delivers valuable evidence for anyone with an academic or professional interest in related issues including social policy, exclusion, poverty and justice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781447347576"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1447347579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C9bYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C9bYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=C9bYDwAAQBAJ&pg=PA5&dq=food&hl=&as_brr=6&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C9bYDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C9bYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 25.34,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=C9bYDwAAQBAJ&rdid=book-C9bYDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 25340000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Rise_of_Food_Charity_in_Europe-sample-pdf.acsm?id=C9bYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C9bYDwAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>food</b> provision . This refers to all voluntary initiatives helping people to access <b>food</b> that they would otherwise not be able to obtain . It therefore covers a variety of provision , including projects that provide <b>food</b> parcels , <b>food</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "0TCvCgAAQBAJ",
-      "etag": "gXsJi4l8cyU",
+      "etag": "5du3MlswWSQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/0TCvCgAAQBAJ",
       "volumeInfo": {
         "title": "Philosophy Comes to Dinner",
@@ -2028,7 +2126,7 @@
           "thumbnail": "http://books.google.com/books/content?id=0TCvCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=0TCvCgAAQBAJ&pg=PT249&dq=food&hl=&as_brr=6&cd=21&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=0TCvCgAAQBAJ&pg=PT249&dq=food&hl=&as_brr=6&cd=22&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=0TCvCgAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0TCvCgAAQBAJ"
       },
@@ -2085,7 +2183,7 @@
     {
       "kind": "books#volume",
       "id": "JkJyEQAAQBAJ",
-      "etag": "9ba6cEfS+rE",
+      "etag": "o22dPXeHo5o",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/JkJyEQAAQBAJ",
       "volumeInfo": {
         "title": "Nutraceuticals",
@@ -2128,7 +2226,7 @@
           "thumbnail": "http://books.google.com/books/content?id=JkJyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=JkJyEQAAQBAJ&pg=RA5-PT124&dq=food&hl=&as_brr=6&cd=22&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=JkJyEQAAQBAJ&pg=RA5-PT124&dq=food&hl=&as_brr=6&cd=23&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=JkJyEQAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JkJyEQAAQBAJ"
       },
@@ -2185,7 +2283,7 @@
     {
       "kind": "books#volume",
       "id": "9COsCQAAQBAJ",
-      "etag": "aQRQb3+P5CQ",
+      "etag": "ZJjdu5S+lmA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/9COsCQAAQBAJ",
       "volumeInfo": {
         "title": "Interdisciplinary Behavior and Social Sciences",
@@ -2227,7 +2325,7 @@
           "thumbnail": "http://books.google.com/books/content?id=9COsCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=9COsCQAAQBAJ&pg=PA290&dq=food&hl=&as_brr=6&cd=23&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=9COsCQAAQBAJ&pg=PA290&dq=food&hl=&as_brr=6&cd=24&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=9COsCQAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9COsCQAAQBAJ"
       },
@@ -2283,7 +2381,7 @@
     {
       "kind": "books#volume",
       "id": "S2XRDwAAQBAJ",
-      "etag": "W0zaZV/Hq7c",
+      "etag": "O2o7X78nlew",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/S2XRDwAAQBAJ",
       "volumeInfo": {
         "title": "Present Knowledge in Nutrition",
@@ -2328,7 +2426,7 @@
           "thumbnail": "http://books.google.com/books/content?id=S2XRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=S2XRDwAAQBAJ&pg=PA308&dq=food&hl=&as_brr=6&cd=24&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=S2XRDwAAQBAJ&pg=PA308&dq=food&hl=&as_brr=6&cd=25&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=S2XRDwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=S2XRDwAAQBAJ"
       },
@@ -2385,7 +2483,7 @@
     {
       "kind": "books#volume",
       "id": "G3nHCgAAQBAJ",
-      "etag": "SX/SzAJa1HI",
+      "etag": "aVb8iOxCEmM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/G3nHCgAAQBAJ",
       "volumeInfo": {
         "title": "Encyclopedia of Spectroscopy and Spectrometry",
@@ -2423,7 +2521,7 @@
           "thumbnail": "http://books.google.com/books/content?id=G3nHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=G3nHCgAAQBAJ&pg=PA678&dq=food&hl=&as_brr=6&cd=25&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=G3nHCgAAQBAJ&pg=PA678&dq=food&hl=&as_brr=6&cd=26&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=G3nHCgAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G3nHCgAAQBAJ"
       },
@@ -2479,7 +2577,7 @@
     {
       "kind": "books#volume",
       "id": "U7PQEAAAQBAJ",
-      "etag": "8aPDBMEnL5s",
+      "etag": "mkiB27I4azs",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/U7PQEAAAQBAJ",
       "volumeInfo": {
         "title": "The Human Side of Service Engineering",
@@ -2520,7 +2618,7 @@
           "thumbnail": "http://books.google.com/books/content?id=U7PQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=U7PQEAAAQBAJ&pg=PA405&dq=food&hl=&as_brr=6&cd=26&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=U7PQEAAAQBAJ&pg=PA405&dq=food&hl=&as_brr=6&cd=27&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=U7PQEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=U7PQEAAAQBAJ"
       },
@@ -2529,11 +2627,11 @@
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 58.2,
+          "amount": 58.33,
           "currencyCode": "EUR"
         },
         "retailPrice": {
-          "amount": 58.2,
+          "amount": 58.33,
           "currencyCode": "EUR"
         },
         "buyLink": "https://play.google.com/store/books/details?id=U7PQEAAAQBAJ&rdid=book-U7PQEAAAQBAJ&rdot=1&source=gbs_api",
@@ -2541,11 +2639,11 @@
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 58200000,
+              "amountInMicros": 58330000,
               "currencyCode": "EUR"
             },
             "retailPrice": {
-              "amountInMicros": 58200000,
+              "amountInMicros": 58330000,
               "currencyCode": "EUR"
             },
             "giftable": true
@@ -2574,404 +2672,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "4FM1AwAAQBAJ",
-      "etag": "3gL9j32liPA",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/4FM1AwAAQBAJ",
-      "volumeInfo": {
-        "title": "International Development",
-        "subtitle": "Ideas, Experience, and Prospects",
-        "authors": [
-          "Bruce Currie-Alder",
-          "Ravi Kanbur",
-          "David M. Malone",
-          "Rohinton Medhora"
-        ],
-        "publisher": "OUP Oxford",
-        "publishedDate": "2014-02-27",
-        "description": "Thinking on development informs and inspires the actions of people, organizations, and states in their continuous effort to invent a better world. This volume examines the ideas behind development: their origins, how they have changed and spread over time, and how they may evolve over the coming decades. It also examines how the real-life experiences of different countries and organizations have been inspired by, and contributed to, thinking on development. The extent to which development 'works' depends in part on particular local, historical, or institutional contexts. General policy prescriptions fail when the necessary conditions that make them work are either absent, ignored, or poorly understood. There is a need to grasp how people understand their own development experience. If the countries of the world are varied in every way, from their initial conditions to the degree of their openness to outside money and influence, and success is not centred in any one group, it stands to reason that there cannot be a single recipe for development. Each chapter provides an analytical survey of thinking about development that highlights debates and takes into account critical perspectives. It includes contributions from scholars and practitioners from the global North and the global South, spanning at least two generations and multiple disciplines. It will be a key reference on the concepts and theories of development - their origins, evolution, and trajectories - and act as a resource for scholars, graduate students, and practitioners.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780191651687"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0191651680"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 972,
-        "printType": "BOOK",
-        "categories": [
-          "Business & Economics"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.4.3.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=4FM1AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=4FM1AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=4FM1AwAAQBAJ&pg=PA433&dq=food&hl=&as_brr=6&cd=27&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=4FM1AwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4FM1AwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 58.45,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 37.99,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=4FM1AwAAQBAJ&rdid=book-4FM1AwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 58450000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 37990000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/International_Development-sample-pdf.acsm?id=4FM1AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=4FM1AwAAQBAJ&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... <b>food</b> price crisis of 2007–8—wherein weather-related shocks such as droughts and floods were compounded by escalating demand for agricultural products from emerg- ing economies, high ... <b>food</b> security 433 The Evolution of <b>Food</b> Security."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "C9bYDwAAQBAJ",
-      "etag": "JHBHwI/WpOI",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/C9bYDwAAQBAJ",
-      "volumeInfo": {
-        "title": "The Rise of Food Charity in Europe",
-        "authors": [
-          "Hannah Lambie-Mumford",
-          "Tiina Silvasti"
-        ],
-        "publisher": "Policy Press",
-        "publishedDate": "2020-03-31",
-        "description": "As the demand for food banks and other emergency food charities continues to rise across the continent, this is the first systematic Europe-wide study of the roots and consequences of this urgent phenomenon. Leading researchers provide case studies from the UK, Finland, Germany, Italy, the Netherlands, Slovenia and Spain, each considering the history and driving political and social forces behind the rise of food charity, and the influence of changing welfare states. They build into a rich comparative study that delivers valuable evidence for anyone with an academic or professional interest in related issues including social policy, exclusion, poverty and justice.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781447347576"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1447347579"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 272,
-        "printType": "BOOK",
-        "categories": [
-          "Political Science"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.3.3.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=C9bYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=C9bYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=C9bYDwAAQBAJ&pg=PA5&dq=food&hl=&as_brr=6&cd=28&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=C9bYDwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C9bYDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 38.99,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 25.34,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=C9bYDwAAQBAJ&rdid=book-C9bYDwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 38990000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 25340000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/The_Rise_of_Food_Charity_in_Europe-sample-pdf.acsm?id=C9bYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=C9bYDwAAQBAJ&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... <b>food</b> provision . This refers to all voluntary initiatives helping people to access <b>food</b> that they would otherwise not be able to obtain . It therefore covers a variety of provision , including projects that provide <b>food</b> parcels , <b>food</b>&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "dzhpDwAAQBAJ",
-      "etag": "3/+CUBlIrz4",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/dzhpDwAAQBAJ",
-      "volumeInfo": {
-        "title": "Guinea",
-        "subtitle": "First Review of the Arrangement Under the Three-Year Extended Credit Facility, Financing Assurances Review, and Request for Modification and for Waivers of Nonobservance of Performance Criteria-Press Release; Staff Report; and Statement by the Executive Director for Guinea",
-        "authors": [
-          "International Monetary Fund. African Dept."
-        ],
-        "publisher": "International Monetary Fund",
-        "publishedDate": "2018-07-20",
-        "description": "The Guinean economy is growing at a faster than anticipated pace on the back of buoyant mining activity. The growth momentum is expected to continue, with real growth at about 6 percent in 2018 and over the medium term. However, risks of instability are heightened by the current electoral cycle.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781484369944"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1484369947"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 136,
-        "printType": "BOOK",
-        "categories": [
-          "Business & Economics"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.1.2.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=dzhpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=dzhpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=dzhpDwAAQBAJ&pg=PA39&dq=food&hl=&as_brr=6&cd=29&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=dzhpDwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dzhpDwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 8.06,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 7.66,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=dzhpDwAAQBAJ&rdid=book-dzhpDwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 8060000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 7660000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Guinea-sample-epub.acsm?id=dzhpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Guinea-sample-pdf.acsm?id=dzhpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=dzhpDwAAQBAJ&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... <b>food</b> relative to other countries. In Guinea, only 16 percent of total staple <b>foods</b>, such as cereals, are sourced through imports compared with an average of 49 percent in neighboring countries.2 Furthermore, domestic <b>food</b> production has&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "QPnrmPzToR4C",
-      "etag": "rcTCIJBcuR8",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/QPnrmPzToR4C",
-      "volumeInfo": {
-        "title": "Ukrainian Cuisine with an American Touch and Ingredients",
-        "authors": [
-          "Nadejda Reilly"
-        ],
-        "publisher": "Xlibris Corporation",
-        "publishedDate": "2010-07-31",
-        "description": "It is a unique cookbook with original Ukrainian recipes flavored with Nadejda Reilly’s personal touch. It contains a brief history of Ukraine and cultural and traditional background of its people. In addition, it includes the author’s personal stories of faith as well as her cooking and baking experiences and who influenced them.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "1453511865"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9781453511862"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 760,
-        "printType": "BOOK",
-        "categories": [
-          "Cooking"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.2.1.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=QPnrmPzToR4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=QPnrmPzToR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=QPnrmPzToR4C&pg=PA36&dq=food&hl=&as_brr=6&cd=30&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=QPnrmPzToR4C&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QPnrmPzToR4C"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 11.99,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 8.99,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=QPnrmPzToR4C&rdid=book-QPnrmPzToR4C&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 11990000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 8990000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Ukrainian_Cuisine_with_an_American_Touch-sample-epub.acsm?id=QPnrmPzToR4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Ukrainian_Cuisine_with_an_American_Touch-sample-pdf.acsm?id=QPnrmPzToR4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=QPnrmPzToR4C&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... <b>food</b>, broken packages <b>food</b>, or refrozen <b>food</b>. • Properly store frozen, refrigerated, and dry, canned, or jarred <b>food</b>. • Frozen <b>food</b> will hold longer, while refrigerated <b>food</b> will hold for 1 week or so. • Always store raw, processed&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "5ls8EAAAQBAJ",
-      "etag": "Co4ZAZXIZak",
+      "etag": "eAzqUrvCvEE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/5ls8EAAAQBAJ",
       "volumeInfo": {
         "title": "Food Science and Technology",
@@ -3013,7 +2715,7 @@
           "thumbnail": "http://books.google.com/books/content?id=5ls8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=5ls8EAAAQBAJ&pg=RA4-PT57&dq=food&hl=&as_brr=6&cd=31&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=5ls8EAAAQBAJ&pg=RA4-PT57&dq=food&hl=&as_brr=6&cd=28&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=5ls8EAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5ls8EAAAQBAJ"
       },
@@ -3069,70 +2771,78 @@
     },
     {
       "kind": "books#volume",
-      "id": "Nd53EQAAQBAJ",
-      "etag": "3LMQU2BXiEU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nd53EQAAQBAJ",
+      "id": "4FM1AwAAQBAJ",
+      "etag": "ycxykPnVMGw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4FM1AwAAQBAJ",
       "volumeInfo": {
-        "title": "A Guide to Federal Terms and Acronyms",
+        "title": "International Development",
+        "subtitle": "Ideas, Experience, and Prospects",
         "authors": [
-          "Don Philpott"
+          "Bruce Currie-Alder",
+          "Ravi Kanbur",
+          "David M. Malone",
+          "Rohinton Medhora"
         ],
-        "publisher": "Bloomsbury Publishing USA",
-        "publishedDate": "2010-12-28",
-        "description": "Navigating government documents is a task that requires considerable knowledge of specialized terms and acronyms. This required knowledge nearly amounts to knowing a completely different language. To those who are not fluent, the task can be overwhelming, as federal departments fill their documents with acronyms, abbreviations, and terms that mean little or nothing to the outsider. Would you be able to make sense of a document that described how the COTR reports to the CO regarding compliance with FAR, GPRA, SARA, and FASA? (This is a common procedure in government contracting.) Would you have any clue what was being referred to if you came across MIL-STD-129P? (It is the new standard for Military Shipping Label Requirements.) The sheer number of such terms makes mastering them nearly impossible. But now, these terms and their definitions are within reach. A Guide to Federal Terms and Acronyms presents a glossary of key definitions used by the Federal Government. This reference guide is comprehensive, covering the most common terms, acronyms, and abbreviations used by each major Federal Government agency. And it is also accessible, organized in a logical, easy-to-use format. Users can look up terms and acronyms by department or subject matter, making this a quick reference for translating government language. This is an essential tool for anyone who works with federal government information.",
+        "publisher": "OUP Oxford",
+        "publishedDate": "2014-02-27",
+        "description": "Thinking on development informs and inspires the actions of people, organizations, and states in their continuous effort to invent a better world. This volume examines the ideas behind development: their origins, how they have changed and spread over time, and how they may evolve over the coming decades. It also examines how the real-life experiences of different countries and organizations have been inspired by, and contributed to, thinking on development. The extent to which development 'works' depends in part on particular local, historical, or institutional contexts. General policy prescriptions fail when the necessary conditions that make them work are either absent, ignored, or poorly understood. There is a need to grasp how people understand their own development experience. If the countries of the world are varied in every way, from their initial conditions to the degree of their openness to outside money and influence, and success is not centred in any one group, it stands to reason that there cannot be a single recipe for development. Each chapter provides an analytical survey of thinking about development that highlights debates and takes into account critical perspectives. It includes contributions from scholars and practitioners from the global North and the global South, spanning at least two generations and multiple disciplines. It will be a key reference on the concepts and theories of development - their origins, evolution, and trajectories - and act as a resource for scholars, graduate students, and practitioners.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9798892054775"
+            "identifier": "9780191651687"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191651680"
           }
         ],
         "readingModes": {
           "text": false,
           "image": true
         },
-        "pageCount": 1825,
+        "pageCount": 972,
         "printType": "BOOK",
         "categories": [
-          "Reference"
+          "Business & Economics"
         ],
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.0.1.0.preview.1",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.3.0.preview.1",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Nd53EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Nd53EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=4FM1AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4FM1AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=Nd53EQAAQBAJ&pg=PA1627&dq=food&hl=&as_brr=6&cd=32&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=Nd53EQAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Nd53EQAAQBAJ"
+        "previewLink": "http://books.google.fr/books?id=4FM1AwAAQBAJ&pg=PA433&dq=food&hl=&as_brr=6&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4FM1AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4FM1AwAAQBAJ"
       },
       "saleInfo": {
         "country": "FR",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 203.6,
+          "amount": 57.37,
           "currencyCode": "EUR"
         },
         "retailPrice": {
-          "amount": 142.52,
+          "amount": 37.29,
           "currencyCode": "EUR"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=Nd53EQAAQBAJ&rdid=book-Nd53EQAAQBAJ&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=4FM1AwAAQBAJ&rdid=book-4FM1AwAAQBAJ&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 203600000,
+              "amountInMicros": 57370000,
               "currencyCode": "EUR"
             },
             "retailPrice": {
-              "amountInMicros": 142520000,
+              "amountInMicros": 37290000,
               "currencyCode": "EUR"
             },
             "giftable": true
@@ -3150,20 +2860,217 @@
         },
         "pdf": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/A_Guide_to_Federal_Terms_and_Acronyms-sample-pdf.acsm?id=Nd53EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.fr/books/download/International_Development-sample-pdf.acsm?id=4FM1AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=Nd53EQAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=4FM1AwAAQBAJ&hl=&as_brr=6&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "... <b>food</b>, including the home, <b>food</b> retail establishments, restaurants, schools, worksites, as well as the overall <b>food</b> supply. <b>Food</b> insecurity The limited or uncertain availability of nutritionally adequate and safe <b>foods</b> or uncertain&nbsp;..."
+        "textSnippet": "... <b>food</b> price crisis of 2007–8—wherein weather-related shocks such as droughts and floods were compounded by escalating demand for agricultural products from emerg- ing economies, high ... <b>food</b> security 433 The Evolution of <b>Food</b> Security."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dzhpDwAAQBAJ",
+      "etag": "BBzOzZYDg08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dzhpDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Guinea",
+        "subtitle": "First Review of the Arrangement Under the Three-Year Extended Credit Facility, Financing Assurances Review, and Request for Modification and for Waivers of Nonobservance of Performance Criteria-Press Release; Staff Report; and Statement by the Executive Director for Guinea",
+        "authors": [
+          "International Monetary Fund. African Dept."
+        ],
+        "publisher": "International Monetary Fund",
+        "publishedDate": "2018-07-20",
+        "description": "The Guinean economy is growing at a faster than anticipated pace on the back of buoyant mining activity. The growth momentum is expected to continue, with real growth at about 6 percent in 2018 and over the medium term. However, risks of instability are heightened by the current electoral cycle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484369944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484369947"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dzhpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dzhpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=dzhpDwAAQBAJ&pg=PA39&dq=food&hl=&as_brr=6&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dzhpDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dzhpDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.08,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 7.68,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dzhpDwAAQBAJ&rdid=book-dzhpDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8080000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 7680000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Guinea-sample-epub.acsm?id=dzhpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Guinea-sample-pdf.acsm?id=dzhpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dzhpDwAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>food</b> relative to other countries. In Guinea, only 16 percent of total staple <b>foods</b>, such as cereals, are sourced through imports compared with an average of 49 percent in neighboring countries.2 Furthermore, domestic <b>food</b> production has&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QPnrmPzToR4C",
+      "etag": "PDyId/1bR00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QPnrmPzToR4C",
+      "volumeInfo": {
+        "title": "Ukrainian Cuisine with an American Touch and Ingredients",
+        "authors": [
+          "Nadejda Reilly"
+        ],
+        "publisher": "Xlibris Corporation",
+        "publishedDate": "2010-07-31",
+        "description": "It is a unique cookbook with original Ukrainian recipes flavored with Nadejda Reilly’s personal touch. It contains a brief history of Ukraine and cultural and traditional background of its people. In addition, it includes the author’s personal stories of faith as well as her cooking and baking experiences and who influenced them.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1453511865"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781453511862"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 760,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QPnrmPzToR4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QPnrmPzToR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=QPnrmPzToR4C&pg=PA36&dq=food&hl=&as_brr=6&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QPnrmPzToR4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QPnrmPzToR4C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QPnrmPzToR4C&rdid=book-QPnrmPzToR4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Ukrainian_Cuisine_with_an_American_Touch-sample-epub.acsm?id=QPnrmPzToR4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Ukrainian_Cuisine_with_an_American_Touch-sample-pdf.acsm?id=QPnrmPzToR4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QPnrmPzToR4C&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>food</b>, broken packages <b>food</b>, or refrozen <b>food</b>. • Properly store frozen, refrigerated, and dry, canned, or jarred <b>food</b>. • Frozen <b>food</b> will hold longer, while refrigerated <b>food</b> will hold for 1 week or so. • Always store raw, processed&nbsp;..."
       }
     },
     {
       "kind": "books#volume",
       "id": "3ePEDwAAQBAJ",
-      "etag": "slYcOkswtNg",
+      "etag": "M13kL4Ns/NA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/3ePEDwAAQBAJ",
       "volumeInfo": {
         "title": "Microbiologically Safe Foods",
@@ -3201,7 +3108,7 @@
           "thumbnail": "http://books.google.com/books/content?id=3ePEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=3ePEDwAAQBAJ&pg=PA21&dq=food&hl=&as_brr=6&cd=33&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=3ePEDwAAQBAJ&pg=PA21&dq=food&hl=&as_brr=6&cd=32&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=3ePEDwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3ePEDwAAQBAJ"
       },
@@ -3210,11 +3117,11 @@
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 188.98,
+          "amount": 185.47,
           "currencyCode": "EUR"
         },
         "retailPrice": {
-          "amount": 188.98,
+          "amount": 185.47,
           "currencyCode": "EUR"
         },
         "buyLink": "https://play.google.com/store/books/details?id=3ePEDwAAQBAJ&rdid=book-3ePEDwAAQBAJ&rdot=1&source=gbs_api",
@@ -3222,11 +3129,11 @@
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 188980000,
+              "amountInMicros": 185470000,
               "currencyCode": "EUR"
             },
             "retailPrice": {
-              "amountInMicros": 188980000,
+              "amountInMicros": 185470000,
               "currencyCode": "EUR"
             },
             "giftable": true
@@ -3257,7 +3164,7 @@
     {
       "kind": "books#volume",
       "id": "TKJ-DwAAQBAJ",
-      "etag": "CaRoLSeSjfo",
+      "etag": "4s9goeBfoig",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/TKJ-DwAAQBAJ",
       "volumeInfo": {
         "title": "The Emergence of National Food",
@@ -3301,7 +3208,7 @@
           "thumbnail": "http://books.google.com/books/content?id=TKJ-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=TKJ-DwAAQBAJ&pg=PA3&dq=food&hl=&as_brr=6&cd=34&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=TKJ-DwAAQBAJ&pg=PA3&dq=food&hl=&as_brr=6&cd=33&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=TKJ-DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TKJ-DwAAQBAJ"
       },
@@ -3356,8 +3263,199 @@
     },
     {
       "kind": "books#volume",
+      "id": "Nd53EQAAQBAJ",
+      "etag": "r6c+8Xd8fu8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nd53EQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Guide to Federal Terms and Acronyms",
+        "authors": [
+          "Don Philpott"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2010-12-28",
+        "description": "Navigating government documents is a task that requires considerable knowledge of specialized terms and acronyms. This required knowledge nearly amounts to knowing a completely different language. To those who are not fluent, the task can be overwhelming, as federal departments fill their documents with acronyms, abbreviations, and terms that mean little or nothing to the outsider. Would you be able to make sense of a document that described how the COTR reports to the CO regarding compliance with FAR, GPRA, SARA, and FASA? (This is a common procedure in government contracting.) Would you have any clue what was being referred to if you came across MIL-STD-129P? (It is the new standard for Military Shipping Label Requirements.) The sheer number of such terms makes mastering them nearly impossible. But now, these terms and their definitions are within reach. A Guide to Federal Terms and Acronyms presents a glossary of key definitions used by the Federal Government. This reference guide is comprehensive, covering the most common terms, acronyms, and abbreviations used by each major Federal Government agency. And it is also accessible, organized in a logical, easy-to-use format. Users can look up terms and acronyms by department or subject matter, making this a quick reference for translating government language. This is an essential tool for anyone who works with federal government information.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892054775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1825,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nd53EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nd53EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Nd53EQAAQBAJ&pg=PA1627&dq=food&hl=&as_brr=6&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Nd53EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Nd53EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 203.6,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 142.52,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Nd53EQAAQBAJ&rdid=book-Nd53EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 203600000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 142520000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/A_Guide_to_Federal_Terms_and_Acronyms-sample-pdf.acsm?id=Nd53EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nd53EQAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>food</b>, including the home, <b>food</b> retail establishments, restaurants, schools, worksites, as well as the overall <b>food</b> supply. <b>Food</b> insecurity The limited or uncertain availability of nutritionally adequate and safe <b>foods</b> or uncertain&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I_M-CgAAQBAJ",
+      "etag": "aZnR/3hkfo0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I_M-CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Spray Drying Techniques for Food Ingredient Encapsulation",
+        "authors": [
+          "C. Anandharamakrishnan",
+          "Padma Ishwarya S."
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2015-07-23",
+        "description": "Spray drying is a well-established method for transforming liquid materials into dry powder form. Widely used in the food and pharmaceutical industries, this technology produces high quality powders with low moisture content, resulting in a wide range of shelf stable food and other biologically significant products. Encapsulation technology for bioactive compounds has gained momentum in the last few decades and a series of valuable food compounds, namely flavours, carotenoids and microbial cells have been successfully encapsulated using spray drying. Spray Drying Technique for Food Ingredient Encapsulation provides an insight into the engineering aspects of the spray drying process in relation to the encapsulation of food ingredients, choice of wall materials, and an overview of the various food ingredients encapsulated using spray drying. The book also throws light upon the recent advancements in the field of encapsulation by spray drying, i.e., nanospray dryers for production of nanocapsules and computational fluid dynamics (CFD) modeling. Addressing the basics of the technology and its applications, the book will be a reference for scientists, engineers and product developers in the industry.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118864272"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118864271"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I_M-CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I_M-CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=I_M-CgAAQBAJ&pg=PA295&dq=food&hl=&as_brr=6&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I_M-CgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I_M-CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 171.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 171.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=I_M-CgAAQBAJ&rdid=book-I_M-CgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 171990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 171990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Spray_Drying_Techniques_for_Food_Ingredi-sample-pdf.acsm?id=I_M-CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I_M-CgAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "C. Anandharamakrishnan, Padma Ishwarya S. WILEY Blackwell <b>Food</b> Science and Technology Books GENERAL <b>FOOD</b> SCIENCE &amp; TECHNOLOGY , ENGINEERING AND PROCESSING <b>Food</b> Texture Design and Optimization Nano- and Microencapsulation for <b>Foods</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "dhDLc4V12EkC",
-      "etag": "0wy488BYZMc",
+      "etag": "d60ZtXNfnLY",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dhDLc4V12EkC",
       "volumeInfo": {
         "title": "On Evil",
@@ -3398,7 +3496,7 @@
           "thumbnail": "http://books.google.com/books/content?id=dhDLc4V12EkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=dhDLc4V12EkC&pg=PA407&dq=food&hl=&as_brr=6&cd=35&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=dhDLc4V12EkC&pg=PA407&dq=food&hl=&as_brr=6&cd=36&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=dhDLc4V12EkC&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dhDLc4V12EkC"
       },
@@ -3453,75 +3551,77 @@
     },
     {
       "kind": "books#volume",
-      "id": "aTwJEQAAQBAJ",
-      "etag": "eNz7nFk5NYo",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/aTwJEQAAQBAJ",
+      "id": "SKt_u35t9hsC",
+      "etag": "h0pB72guri4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SKt_u35t9hsC",
       "volumeInfo": {
-        "title": "The Whole Smiths Real Food Every Day",
-        "subtitle": "Healthy Recipes to Keep Your Family Happy Throughout the Week",
+        "title": "When Technology Fails",
+        "subtitle": "A Manual for Self-Reliance, Sustainability, and Surviving the Long Emergency, 2nd Edition",
         "authors": [
-          "Michelle Smith"
+          "Matthew Stein"
         ],
-        "publisher": "HarperCollins",
-        "publishedDate": "2024-05-21",
-        "description": "\"Handy tips abound . . . Busy home cooks looking to put together healthy, tasty dinners would do well to pick up this breezy and encouraging book.\" — Publishers Weekly Today, more than ever, people are looking to transition to a whole foods-based diet, aware of the health benefits of fresh foods over highly processed options. Still, people are used to convenience, and have busy schedules and little time to put a meal on the table. The Whole Smiths Real Food Every Day solves the problem of what's for dinner during a hectic week. With simple, accessible recipes that are designed to be made ahead, used for leftovers, or thrown into a slow cooker, families will be able to easily prepare healthy meals on a regular basis. Chapters like Sheet Pan Recipes, One-Pot Wonders, Meal Prep, and Leftover Makeovers will guide readers in making the most of their time in the kitchen while delivering healthy recipes that can be made with minimal effort. This follow-up to the bestselling The Whole Smiths Good Food Cookbook will also highlight which recipes are gluten-free, grain-free, dairy-free, and more, making it easy to prepare recipes to fit into any diet.",
+        "publisher": "Chelsea Green Publishing",
+        "publishedDate": "2008-08-18",
+        "description": "There’s never been a better time to be prepared. “This book is an indispensable basic manual for the real-life issues that await us in the decades to come. . . [A] treasure trove of practical wisdom.”—James Howard Kunstler, author of The Geography of Nowhere Matthew Stein’s comprehensive primer on sustainable living skills—from food and water to shelter and energy to first-aid and crisis-management skills—prepares you to embark on the path toward sustainability. But unlike any other book, Stein not only shows you how to live green in seemingly stable times, but to live in the face of potential disasters, lasting days or years, coming in the form of social upheaval, economic meltdown, or environmental catastrophe. When Technology Fails covers the gamut. Inside, you’ll learn: The basics of installing a renewable energy system for your home or business How to find and sterilize water in the face of utility failure How to keep warm if you’ve been left temporarily homeless Practical information for dealing with water-quality issues Alternative health and first-aid techniques Each chapter describes skills for self-reliance in good times and bad. Chapters Include: A survey of the risks to the status quo Supplies and preparation for short- and long-term emergencies Emergency measures for survival Prepping water, food, shelter, and clothing First aid, low-tech medicine, and healing Securing energy, heat, and power Metalworking Utensils and storage Low-tech chemistry engineering, machines, and materials Fully revised and expanded, When Technology Fails ends on a positive, proactive note with a chapter on “Making the Shift to Sustainability,” which offers practical suggestions for changing our world on personal, community and global levels. \"When Technology Fails is a massive project done well. First the book gives a superb presentation of WHY one should be more aware and prepared--and then HOW one should go about this. The scope of this book... is thorough.\"—John McPherson, author, Primitive Wilderness Living and Survival Skills",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780358164517"
+            "identifier": "9781603580953"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0358164516"
+            "identifier": "1603580956"
           }
         ],
         "readingModes": {
           "text": true,
-          "image": false
+          "image": true
         },
-        "pageCount": 452,
+        "pageCount": 514,
         "printType": "BOOK",
         "categories": [
-          "Cooking"
+          "Social Science"
         ],
+        "averageRating": 3,
+        "ratingsCount": 2,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
-        "contentVersion": "0.1.1.0.preview.2",
+        "contentVersion": "2.5.4.0.preview.3",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=aTwJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=aTwJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=SKt_u35t9hsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SKt_u35t9hsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=aTwJEQAAQBAJ&pg=PT15&dq=food&hl=&as_brr=6&cd=36&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=aTwJEQAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aTwJEQAAQBAJ"
+        "previewLink": "http://books.google.fr/books?id=SKt_u35t9hsC&pg=PA57&dq=food&hl=&as_brr=6&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SKt_u35t9hsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SKt_u35t9hsC"
       },
       "saleInfo": {
         "country": "FR",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 30.58,
+          "amount": 27.81,
           "currencyCode": "EUR"
         },
         "retailPrice": {
-          "amount": 19.99,
+          "amount": 27.81,
           "currencyCode": "EUR"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=aTwJEQAAQBAJ&rdid=book-aTwJEQAAQBAJ&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=SKt_u35t9hsC&rdid=book-SKt_u35t9hsC&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 30580000,
+              "amountInMicros": 27810000,
               "currencyCode": "EUR"
             },
             "retailPrice": {
-              "amountInMicros": 19990000,
+              "amountInMicros": 27810000,
               "currencyCode": "EUR"
             },
             "giftable": true
@@ -3536,23 +3636,24 @@
         "textToSpeechPermission": "ALLOWED",
         "epub": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/The_Whole_Smiths_Real_Food_Every_Day-sample-epub.acsm?id=aTwJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.fr/books/download/When_Technology_Fails-sample-epub.acsm?id=SKt_u35t9hsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-          "isAvailable": false
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/When_Technology_Fails-sample-pdf.acsm?id=SKt_u35t9hsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=aTwJEQAAQBAJ&hl=&as_brr=6&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=SKt_u35t9hsC&hl=&as_brr=6&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "... <b>food</b> we eat . We&#39;re not Paleo or keto or any of the names that have been created for diets that we try to adhere to . We&#39;re human beings . And chances are ... <b>food</b> . MEET THE SMITHS In the Beginning Brad and I began <b>FOOD</b> PHILOSOPHY."
+        "textSnippet": "... <b>foods</b> or <b>food</b> from bulging cans — sickness or death may result . Keep stored <b>foods</b> cool , clean , dark , and dry . Try to keep them below 70 ° F . The optimum storage for most nonfrozen <b>foods</b> is 35 ° to 40 ° F . Shelf life decreases by&nbsp;..."
       }
     },
     {
       "kind": "books#volume",
       "id": "ck9HBAAAQBAJ",
-      "etag": "gaOhV+KbLyM",
+      "etag": "sUha/0s3fq4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/ck9HBAAAQBAJ",
       "volumeInfo": {
         "title": "In the Company of Bears",
@@ -3594,7 +3695,7 @@
           "thumbnail": "http://books.google.com/books/content?id=ck9HBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=ck9HBAAAQBAJ&pg=PT186&dq=food&hl=&as_brr=6&cd=37&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=ck9HBAAAQBAJ&pg=PT186&dq=food&hl=&as_brr=6&cd=38&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=ck9HBAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ck9HBAAAQBAJ"
       },
@@ -3651,7 +3752,7 @@
     {
       "kind": "books#volume",
       "id": "nx1vBAAAQBAJ",
-      "etag": "23QjKnnOkcM",
+      "etag": "O+lTvV2ej8Y",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/nx1vBAAAQBAJ",
       "volumeInfo": {
         "title": "Advertising to Children",
@@ -3696,7 +3797,7 @@
           "thumbnail": "http://books.google.com/books/content?id=nx1vBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=nx1vBAAAQBAJ&pg=PA57&dq=food&hl=&as_brr=6&cd=38&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=nx1vBAAAQBAJ&pg=PA57&dq=food&hl=&as_brr=6&cd=39&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=nx1vBAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nx1vBAAAQBAJ"
       },
@@ -3753,7 +3854,7 @@
     {
       "kind": "books#volume",
       "id": "wBmuAgAAQBAJ",
-      "etag": "EIS85H4B3ms",
+      "etag": "v8Sut3+Oa7M",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wBmuAgAAQBAJ",
       "volumeInfo": {
         "title": "Environmentalism, Resistance and Solidarity",
@@ -3796,7 +3897,7 @@
           "thumbnail": "http://books.google.com/books/content?id=wBmuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.fr/books?id=wBmuAgAAQBAJ&pg=PA157&dq=food&hl=&as_brr=6&cd=39&source=gbs_api",
+        "previewLink": "http://books.google.fr/books?id=wBmuAgAAQBAJ&pg=PA157&dq=food&hl=&as_brr=6&cd=40&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=wBmuAgAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wBmuAgAAQBAJ"
       },
@@ -3848,107 +3949,6 @@
       },
       "searchInfo": {
         "textSnippet": "... <b>food</b> system and &#39;the need to refocus attention on the billion and a half men and women who produce the <b>food</b> we all eat&#39;.3 FoEI was one of the forum&#39;s organizers, with REDES/FoE Uruguay&#39;s Martín Drago sitting on the International&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "0pDGAAAAQBAJ",
-      "etag": "aWvGdWbBm4A",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/0pDGAAAAQBAJ",
-      "volumeInfo": {
-        "title": "Risk Regulation in the United States and European Union",
-        "subtitle": "Controlling Chaos",
-        "authors": [
-          "A. Luedtke",
-          "L. Svedin",
-          "Thad E. Hall"
-        ],
-        "publisher": "Springer",
-        "publishedDate": "2010-06-07",
-        "description": "Globalization and technology have altered public fears and changed expectations of how government should make people safer. This book analyzes how Europeans and Americans perceive and regulate risk. The authors show how public fears about risk are filtered through political systems to pressure governments to insure against risk.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780230109476"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0230109470"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 220,
-        "printType": "BOOK",
-        "categories": [
-          "Business & Economics"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "4.7.5.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=0pDGAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=0pDGAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.fr/books?id=0pDGAAAAQBAJ&pg=PA104&dq=food&hl=&as_brr=6&cd=40&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=0pDGAAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0pDGAAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "FR",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 52.74,
-          "currencyCode": "EUR"
-        },
-        "retailPrice": {
-          "amount": 34.28,
-          "currencyCode": "EUR"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=0pDGAAAAQBAJ&rdid=book-0pDGAAAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 52740000,
-              "currencyCode": "EUR"
-            },
-            "retailPrice": {
-              "amountInMicros": 34280000,
-              "currencyCode": "EUR"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "FR",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Risk_Regulation_in_the_United_States_and-sample-epub.acsm?id=0pDGAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.fr/books/download/Risk_Regulation_in_the_United_States_and-sample-pdf.acsm?id=0pDGAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=0pDGAAAAQBAJ&hl=&as_brr=6&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... (<b>Food</b> Standards Agency 2008a). In 2006 the EU introduced its newest set of regulations pertaining to <b>food</b> production hygiene. This regulation package included Regulation (EC) 852/2004 on the hygiene of foodstuffs, Regulation (EC) 853&nbsp;..."
       }
     }
   ]
