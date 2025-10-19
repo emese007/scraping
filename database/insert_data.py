@@ -22,7 +22,7 @@ def creation_bd(df_books: pd.DataFrame) -> sqlite3.Connection:
     """
 
     # Création de la BDD
-    connection = sqlite3.connect("/home/emese/Briefs_test/scraping/book_store.db")
+    connection = sqlite3.connect("/home/emese/Briefs_test/scraping/data/book_store.db")
     cursor = connection.cursor()
 
     # Création manuelle de la table si elle n'existe pas

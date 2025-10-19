@@ -1,7 +1,7 @@
 import pandas as pd
 import sqlite3
 
-def insert_api_data_to_database(df_clean: pd.DataFrame, db_path: str = "/home/emese/Briefs_test/scraping/book_store.db") -> int:
+def insert_api_data_to_database(df_clean: pd.DataFrame, db_path: str = "/home/emese/Briefs_test/scraping/data/book_store.db") -> int:
     """
     Insère les données nettoyées provenant d'une API dans une base de données SQLite.
 

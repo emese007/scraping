@@ -1,6 +1,6 @@
 import pandas as pd
 
-def process_scarping_data(df_books: pd.DataFrame) -> pd.DataFrame:
+def process_scraping_data(df_books: pd.DataFrame) -> pd.DataFrame:
     """
     Nettoie et convertit les types des colonnes du DataFrame de livres.
 

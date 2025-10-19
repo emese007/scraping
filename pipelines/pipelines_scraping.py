@@ -1,11 +1,11 @@
 import pandas as pd
 from get_data.get_scraping_data import scrape_books
-from process_data.process_scraping_data import process_scarping_data
+from process_data.process_scraping_data import process_scraping_data
 from database.insert_data import creation_bd, insert_data
 
 def run_scraping_pipeline(pages: int = 5, base_url: str = "http://books.toscrape.com/catalogue/page-{}.html") -> pd.DataFrame:
     """
-    Pipeline final de scarping, nettoyage et insertion des données des livres.
+    Pipeline final de scraping, nettoyage et insertion des données des livres.
 
     Étapes :
     1. Scraping des données sur plusieurs pages
@@ -27,10 +27,10 @@ def run_scraping_pipeline(pages: int = 5, base_url: str = "http://books.toscrape
 
     # Sauvegarde des données brutes
     print("1. Sauvegarde des données brutes")
-    df_raw.to_csv("data/data_scarping.csv", index=True)
+    df_raw.to_csv("data/data_scraping.csv", index=True)
 
     # Nettoyage des données
-    df_clean = process_scarping_data(df_raw)
+    df_clean = process_scraping_data(df_raw)
     print("Nettoyage des données")
 
     # Création et insertion en base
