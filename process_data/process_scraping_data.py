@@ -1,31 +1,35 @@
 import pandas as pd
 
 def process_scarping_data(df_books: pd.DataFrame) -> pd.DataFrame:
-    """Convert the types of the DataFrame columns to appropriate types.
+    """
+    Nettoie et convertit les types des colonnes du DataFrame de livres.
+
+    Cette fonction :
+      - convertit la colonne 'title' en chaînes de caractères,
+      - retire le symbole '£' de la colonne 'price' et la convertit en float,
+      - transforme la colonne 'availability' en booléen (True si "In stock", sinon False),
+      - nettoie la colonne 'rating' et la convertit en valeur entière de 1 à 5.
 
     Args:
-        df_books (pd.DataFrame): The DataFrame containing book data.
+        df_books (pd.DataFrame): Le DataFrame contenant les données brutes extraites du site de livres.
 
     Returns:
-        pd.DataFrame: The DataFrame with converted types.
+        pd.DataFrame: Le DataFrame nettoyé avec des types de colonnes appropriés.
     """
     # Conversion de title en chaîne de caractères
     df_books["title"] = df_books["title"].astype(str)
     
-    # Convertir la colonne price en type décimal
-    df_books["price"] = df_books["price"].astype(str).str.removeprefix("£")
-    df_books["price"] = df_books["price"].astype(float)
+    # Conversion de price en float après suppression du symbole '£'
+    df_books["price"] = df_books["price"].astype(str).str.removeprefix("£").astype(float)
 
-    # Fonction pour convertir la valeur de availability en booléen
-    def convert_availability(value : str) -> bool:
-        if value == "In stock":
-            return True
-        else:
-            return False
+    # Fonction pour convertir la disponibilité en booléen
+    def convert_availability(value: str) -> bool:
+        return value == "In stock"
 
-    # Convertir la colonne availability en booléen (True/False)
+    # Application de la conversion sur la colonne availability
     df_books["availability"] = df_books["availability"].apply(convert_availability)
 
+    # Nettoyage et conversion des ratings
     df_books["rating"] = df_books["rating"].astype(str).str.strip().str.title()
     ratings_map = {"One": 1, "Two": 2, "Three": 3, "Four": 4, "Five": 5}
     df_books["rating"] = df_books["rating"].map(ratings_map).astype("Int64")
